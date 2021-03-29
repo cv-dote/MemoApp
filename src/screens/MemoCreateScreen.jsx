@@ -9,7 +9,7 @@ import KeyboardSafeView from '../components/KeyboardSafeView';
 
 export default function MemoCreateScreen(props) {
     const { navigation } = props;
-    const [bodyText, SetBodyText] = useState('');
+    const [bodyText, setBodyText] = useState('');
 
     function handlePress() {
         const { currentUser } = firebase.auth();
@@ -35,7 +35,7 @@ export default function MemoCreateScreen(props) {
                  value={ bodyText }
                  multiline
                  style={styles.input}
-                 onChangeText={(text) => { SetBodyText(text); }}
+                 onChangeText={(text) => { setBodyText(text); }}
                  autoFocus
                 />
             </View>
