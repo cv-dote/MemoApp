@@ -14,7 +14,7 @@ React Native (JavaScript) で作成した Memoアプリです
 ## メモリスト
 ![memolist](https://user-images.githubusercontent.com/74953312/117369236-9c78fb80-aeff-11eb-9240-1f602968aa55.png)
 ## メモ詳細
-![memodetail](https://user-images.githubusercontent.com/74953312/117084724-ed171a00-ad82-11eb-806d-996391206e10.png)
+![memodetail](https://user-images.githubusercontent.com/74953312/117369344-c0d4d800-aeff-11eb-9f45-68e06bb1b8ba.png)
 
 
 Thank you!
